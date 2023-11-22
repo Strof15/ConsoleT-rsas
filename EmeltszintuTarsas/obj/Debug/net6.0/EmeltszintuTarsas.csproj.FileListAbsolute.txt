@@ -1,0 +1,15 @@
+C:\Users\nagy.kristof.robert\source\repos\EmeltszintuTarsas\EmeltszintuTarsas\bin\Debug\net6.0\EmeltszintuTarsas.exe
+C:\Users\nagy.kristof.robert\source\repos\EmeltszintuTarsas\EmeltszintuTarsas\bin\Debug\net6.0\EmeltszintuTarsas.deps.json
+C:\Users\nagy.kristof.robert\source\repos\EmeltszintuTarsas\EmeltszintuTarsas\bin\Debug\net6.0\EmeltszintuTarsas.runtimeconfig.json
+C:\Users\nagy.kristof.robert\source\repos\EmeltszintuTarsas\EmeltszintuTarsas\bin\Debug\net6.0\EmeltszintuTarsas.dll
+C:\Users\nagy.kristof.robert\source\repos\EmeltszintuTarsas\EmeltszintuTarsas\bin\Debug\net6.0\EmeltszintuTarsas.pdb
+C:\Users\nagy.kristof.robert\source\repos\EmeltszintuTarsas\EmeltszintuTarsas\obj\Debug\net6.0\EmeltszintuTarsas.csproj.AssemblyReference.cache
+C:\Users\nagy.kristof.robert\source\repos\EmeltszintuTarsas\EmeltszintuTarsas\obj\Debug\net6.0\EmeltszintuTarsas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagy.kristof.robert\source\repos\EmeltszintuTarsas\EmeltszintuTarsas\obj\Debug\net6.0\EmeltszintuTarsas.AssemblyInfoInputs.cache
+C:\Users\nagy.kristof.robert\source\repos\EmeltszintuTarsas\EmeltszintuTarsas\obj\Debug\net6.0\EmeltszintuTarsas.AssemblyInfo.cs
+C:\Users\nagy.kristof.robert\source\repos\EmeltszintuTarsas\EmeltszintuTarsas\obj\Debug\net6.0\EmeltszintuTarsas.csproj.CoreCompileInputs.cache
+C:\Users\nagy.kristof.robert\source\repos\EmeltszintuTarsas\EmeltszintuTarsas\obj\Debug\net6.0\EmeltszintuTarsas.dll
+C:\Users\nagy.kristof.robert\source\repos\EmeltszintuTarsas\EmeltszintuTarsas\obj\Debug\net6.0\refint\EmeltszintuTarsas.dll
+C:\Users\nagy.kristof.robert\source\repos\EmeltszintuTarsas\EmeltszintuTarsas\obj\Debug\net6.0\EmeltszintuTarsas.pdb
+C:\Users\nagy.kristof.robert\source\repos\EmeltszintuTarsas\EmeltszintuTarsas\obj\Debug\net6.0\EmeltszintuTarsas.genruntimeconfig.cache
+C:\Users\nagy.kristof.robert\source\repos\EmeltszintuTarsas\EmeltszintuTarsas\obj\Debug\net6.0\ref\EmeltszintuTarsas.dll
